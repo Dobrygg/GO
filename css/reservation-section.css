@@ -374,6 +374,7 @@
         padding: 13px 45px;
         font-size: 18px;
         line-height: calc(24 / 18);
+        max-width: 254px;
         
         
     }
